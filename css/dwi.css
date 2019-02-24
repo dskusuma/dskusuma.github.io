@@ -66,3 +66,15 @@ i {
   height: 100%;
   /* width: 2px; */
 }
+@media (max-width: 576px) { 
+  .header-center {
+    text-align: center;
+    display: inline-block;
+    width: 100%;
+  }
+  .float-center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+}
