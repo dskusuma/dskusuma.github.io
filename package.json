@@ -1,0 +1,22 @@
+{
+  "name": "dskusuma.github.io",
+  "version": "1.0.0",
+  "description": "Dwi Satria Kusuma personal Github page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dskusuma/dskusuma.github.io.git"
+  },
+  "keywords": [
+    "github-page"
+  ],
+  "author": "IB Dwi Satria Kusuma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dskusuma/dskusuma.github.io/issues"
+  },
+  "homepage": "https://github.com/dskusuma/dskusuma.github.io#readme"
+}
