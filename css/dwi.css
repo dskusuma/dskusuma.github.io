@@ -42,3 +42,27 @@
 .footer-text {
   font-family: 'Inconsolata', monospace;
 }
+
+.d-nav-link {
+  margin-right: 10px;
+}
+
+a.d-nav-link {
+  color: #AFAFAF;
+  font-family: 'Montserrat', sans-serif;
+  letter-spacing: 0.08em
+}
+
+a.d-nav-link:hover {
+  color: #4F4F4F;
+}
+
+i {
+  font-size: 1em;
+}
+
+.vl {
+  border-left: 1px solid #AFAFAF;
+  height: 100%;
+  /* width: 2px; */
+}
