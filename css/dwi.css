@@ -1,0 +1,25 @@
+.intro {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 4em;
+  font-weight: bold;
+  margin: 5% 0;
+}
+
+.leading {
+  font-family: 'Open Sans Light', sans-serif;
+  color: #AFAFAF;
+  font-weight: 300;
+  font-size: 1.25em;
+  /* text-transform: uppercase */
+  letter-spacing: 20;
+}
+
+.intro-image {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.brand-title {
+  font-family: 'Inconsolata', monospace;
+}
